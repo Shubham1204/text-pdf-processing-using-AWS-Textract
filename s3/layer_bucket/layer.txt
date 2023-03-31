@@ -1,1 +1,1 @@
-Please download layer for pandas_3.9 from
+Please download layer for pandas_3.9 from https://github.com/srcecde/aws-tutorial-code/blob/master/lambda-layers-package/python3.9/pandas_39.zip
